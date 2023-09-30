@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+/* div{
+  padding: 10px;
+} */
+
+.board-container{
+  margin: 20px;
+}
+
+.board-row{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
